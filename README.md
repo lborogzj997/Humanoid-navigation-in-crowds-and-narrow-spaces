@@ -41,7 +41,9 @@ The same core idea applies to both:
 
 ## Demo Videos
 
-Sideways passing through a tight gap
+Sideways passing through corridors (straight&curved)
+
+https://github.com/user-attachments/assets/e4cf1782-c612-44ec-906f-b2d3d89e4d40
 
 Humanoid navigates a corridor with a pedestrian; adapts path and body orientation
 
