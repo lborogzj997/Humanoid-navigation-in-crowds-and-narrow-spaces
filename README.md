@@ -41,6 +41,10 @@ The same core idea applies to both:
 
 ## Demo Videos
 
+
+https://github.com/user-attachments/assets/2998d870-ffa4-4e5b-9e18-ad7cf0840d31
+
+
 | Video | Description |
 |-------|-------------|
 | [Simulation — social corridor]() | Humanoid navigates a corridor with a pedestrian; adapts path and body orientation |
