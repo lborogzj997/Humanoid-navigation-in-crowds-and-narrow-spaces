@@ -66,5 +66,8 @@ https://github.com/user-attachments/assets/fa13414a-9857-4758-9378-4430fc66925c
 - **Real robot:** ROS 2, FAST-LIO2, onboard LiDAR  
 
 ---
+## Author
+
+Zijian Ge
 
 ## Citation
