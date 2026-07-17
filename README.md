@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/027c076f-f5c4-48d4-bcd6-ede91fb5148e
 
 Local planning using hybrid A*
 
-https://github.com/user-attachments/assets/e86255f6-90ce-4bd2-ac03-1179968ed877
+https://github.com/user-attachments/assets/fa13414a-9857-4758-9378-4430fc66925c
 
 ---
 
